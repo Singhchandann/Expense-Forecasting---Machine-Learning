@@ -49,7 +49,7 @@ expense_forecasting_project/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/expense_forecasting_project.git
+    git clone https://github.com/Singhchandann/Expense-Forecasting--Machine-Learning.git
     cd expense_forecasting_project
     ```
 
