@@ -1,1 +1,1 @@
-
+You can obtain all this model on your data just by running Directrun.py in scripts directory.
